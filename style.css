@@ -1,0 +1,18 @@
+#kotak {
+	background: url(logo.jpg);
+	width: 200px;
+	height: 200px;
+	background-repeat:  no-repeat;
+}
+
+.button{
+	width: 240px;
+	height: 83px;
+	background: url(logo.jpg);
+}
+.button:hover{
+	background-position-y: -83px;
+}
+img{
+	float: left;
+}
